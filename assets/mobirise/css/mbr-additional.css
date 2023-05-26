@@ -1768,37 +1768,6 @@ a {
 .cid-tEJ0RjQdoj .mbr-description {
   color: #bed3f9;
 }
-.cid-tEJ0RKKO9l {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #000000;
-}
-.cid-tEJ0RKKO9l .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tEJ0RKKO9l .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-tEJ0RKKO9l .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tEJ0RKKO9l .row {
-  flex-direction: row-reverse;
-}
-.cid-tEJ0RKKO9l img {
-  width: 100%;
-}
-.cid-tEJ0RKKO9l .mbr-description {
-  color: #bed3f9;
-}
 .cid-tEqhbkcqi3 {
   padding-top: 1rem;
   padding-bottom: 1rem;
